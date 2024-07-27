@@ -1,4 +1,4 @@
-
+<img src="River vs Non-River.png" alt="Alt text" width="800" />
 # River vs Non-River Classification of Satellite Data using Bayes Decision Rule
 
 This project implements a classifier to distinguish between satellite images containing river scenes and those without. The classification is based on statistical analysis of pixel intensity values using the Bayes decision rule and multivariate normal distribution modeling.
