@@ -1,4 +1,4 @@
-<img src="River vs Non-River.png" alt="Alt text" width="800" />
+<img src="River vs Non-River.jpeg" alt="Alt text" width="800" />
 
 
 # River vs Non-River Classification of Satellite Data using Bayes Decision Rule
